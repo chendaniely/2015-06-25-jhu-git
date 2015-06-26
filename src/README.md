@@ -6,6 +6,9 @@ src for source code and a change from my local computer
 
 ### header 3
 
+#### header 4
+New section on some other topic.
+
 ###### header 6
 
 - bullet 1
